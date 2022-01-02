@@ -9,7 +9,7 @@ When user opens web application, They will be able to view each section Projects
  
 Gthub Repo: https://github.com/KiahnaC/UpdatedPortfolio-
 
-![alt text](https://github.com/KiahnaC/Updatedportfolio/deployedportfolio.png?raw=true)
+https://github.com/KiahnaC/UpdatedPortfolio-/issues/2#issuecomment-1003649555
 
 
 
