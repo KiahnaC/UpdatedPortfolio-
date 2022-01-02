@@ -2,6 +2,7 @@
 
 user story:
 
-User should be able to view webpage consisting of congact information, an about me seciton and, my projects listed on the right hand side. When you click on the link to my linkedin, the page will launch to my linkedin profile. When you click on the Gift and Grubs link, the page will launch to the web application.
+When user opens web application, They will be able to view each section Projects, About Me, or Contact information by scrolling or using the nav bar. Projects have github repo and deployed link. contact inform to GitHub profile, Linkedin profile, and my resume are available as well.
 
-https://github.com/KiahnaC/portfolio/issues/1#issue-1046665565
+ Deployed page :https://kiahnac.github.io/UpdatedPortfolio-/
+Gthub Repo: https://github.com/KiahnaC/UpdatedPortfolio-
