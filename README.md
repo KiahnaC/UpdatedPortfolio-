@@ -1,5 +1,5 @@
 # portfolio
-# deployedportfolio
+
 
 user story:
 
@@ -10,4 +10,4 @@ Gthub Repo: https://github.com/KiahnaC/UpdatedPortfolio-
 
 
 
-![alt text](https://kiahnac.github.io/UpdatedPortfolio-/deployedportfolio.png?raw=true)
+
