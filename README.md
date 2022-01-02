@@ -9,4 +9,4 @@ Gthub Repo: https://github.com/KiahnaC/UpdatedPortfolio-
 
 
 
-![alt text]https://github.com/KiahnaC/UpdatedPortfolio-/issues/1#issue-1091930727
+![alt text](https://kiahnac.github.io/UpdatedPortfolio-/deployedportfolio.png?raw=true)
