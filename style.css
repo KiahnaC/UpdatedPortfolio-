@@ -16,11 +16,11 @@
 
   
   @media only screen and (max-width: 1200px){
-    body{}
+    body .card{ width: 100%;}
 }
 @media only screen and (max-width: 600px){
-	body{}
+	body .card{ width: 100%;}
 }
 @media only screen and (max-width: 425px){
-	body{}
+	body .card{ width: 100%;}
 }
