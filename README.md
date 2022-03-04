@@ -1,4 +1,4 @@
-# UpdatedPortfolio-
+# UpdatedPortfolio
 
 
 Welcome to my portfolio! In this application, the user should be able to view my previous projects during my time at the University of Washington coding bootcamp.
