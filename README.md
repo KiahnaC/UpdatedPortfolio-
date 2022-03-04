@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 
 user story:
@@ -9,10 +9,11 @@ When user opens web application, They will be able to view each section Projects
  
 Gthub Repo: https://github.com/KiahnaC/UpdatedPortfolio-
 
-https://github.com/KiahnaC/UpdatedPortfolio-/issues/2#issuecomment-1003649555
 
 
 
+
+<img width="1440" alt="Screen Shot 2022-03-03 at 6 22 06 PM" src="https://user-images.githubusercontent.com/88855915/156686950-6d6e8c28-9ca0-4ff7-b431-159faa10736f.png">
 
 
 
