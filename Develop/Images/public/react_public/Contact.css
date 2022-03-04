@@ -1,0 +1,69 @@
+ 
+        input[type=text],
+        select,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+
+        }
+        .fa{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: x-large;
+}
+.last,
+.first,
+.subject{
+    color: white;
+    font-size: x-large;
+}
+        
+
+        h1 {
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        h2 {
+            text-align: center;
+
+        }
+
+        input[type=submit] {
+            background-color: #4c04aa;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            box-shadow: rgb(150, 147, 147);
+        }
+
+
+        input[type=submit]:hover {
+            background-color: #6231a3;
+        }
+
+
+        .container {
+            border-radius: 5px;
+            background-image: url("contactbackground.jpeg");
+            padding: 20px;
+            box-shadow: 10px 5px 5px grey;
+        }
+
+        footer {
+            text-align: center;
+            padding: 3px;
+            border: black, solid;
+            box-shadow: 10px 5px 5px grey;
+            border-radius: 4px;
+
+        }
